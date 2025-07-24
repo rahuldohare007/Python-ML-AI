@@ -19,9 +19,9 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 
 ## ✅ Daily Log
 
-| Day | Topic                               | Summary                                           | Key Takeaway                                               | Link     |
-|-----|-------------------------------------|---------------------------------------------------|------------------------------------------------------------|----------|
-| 1   | Python Basics                       | Variables, Data Types, and Operators              | Python’s flexibility makes it great for beginners          | [Day-1]() |
+| Day | Topic                               | Summary                                           | Key Takeaway                                               | Link              |
+|-----|-------------------------------------|---------------------------------------------------|------------------------------------------------------------|-------------------|
+| 1   | Python Basics                       | Variables, Data Types, and Operators              | Python’s flexibility makes it great for beginners          | [Day-1]()|
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
 
