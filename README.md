@@ -25,8 +25,8 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 1   | Python Basics                       | Variables, Data Types, and Operators                    | Python’s flexibility makes it great for beginners            | [Day-1](Days/Day-1/) |
 | 2   | Control Flow                        | if/else statements, for and while loops, break/continue | Control flow is the backbone of logic building               | [Day-2](Days/Day-2/) |
 | 3   |                                     |                                                         |                                                              |                      |
-|     |                                     |                                                         |                                                              |                      |
-|     |                                     |                                                         |                                                              |                      |
+| 4   |                                     |                                                         |                                                              |                      |
+| 5   |                                     |                                                         |                                                              |                      |
 
 
 
@@ -41,9 +41,25 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 
 ---
 
+## 📚 Books I'm Using
+
+Here are some of the best books I’m referring to throughout this journey:
+
+| Book Title                                                      | Author(s)                                            | Why I’m Using It                                       |
+|-----------------------------------------------------------------|------------------------------------------------------|--------------------------------------------------------|
+| Code with Python                                                | Suresh Sundaradasu & S Rama Shree                    | Best for Python fundamentals with hands-on exercises   |
+| Problem Solving and Python Programming                          | J Jayalakshmi, Dr. D Stalin Alex and B Mahesh Prabhu | Great for practical Python scripting                   |
+| Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow | Aurélien Géron                                       | My go-to for ML concepts and real-world examples       |
+| ...                                                             |                                                      |                                                        |
+
+---
+
 ## 🧩 Projects & Capstones
 
-- Calculator → [Link]()
+| Project Name | Description                 | Link       |
+|--------------|-----------------------------|------------|
+| Calculator   | Basic arithmetic operations | [Open]()   |
+| ...          | Coming soon                 |            |
 
 ---
 
@@ -63,4 +79,7 @@ If you're also on a #100DaysOfCode journey or just love learning ML/AI, consider
 
 > “Learning by building in public is the fastest way to grow. Let’s do this together. 💪”
 
-## RAHUL DOHARE
+
+
+
+** RAHUL DOHARE**
