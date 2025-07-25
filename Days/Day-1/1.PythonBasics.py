@@ -27,4 +27,3 @@ print(age + 5)                      # 30               # + as numeric addition
 print(name * 3)                     # RahulRahulRahul  # * repeats the string
 print(age * 2)                      # 50               # * as numeric multiplication
 
-
