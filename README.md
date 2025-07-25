@@ -19,10 +19,15 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 
 ## ✅ Daily Log
 
-| Day | Topic                               | Summary                                           | Key Takeaway                                                 | Link              |
-|-----|-------------------------------------|---------------------------------------------------|--------------------------------------------------------------|-------------------|
-| 0	  | Introduction to Python	            | Installed Python & VSCode; ran first script	      | Python’s simplicity & readability make it beginner-friendly	 | [Day-0](Days/Day-0/1.IntroductionToPython.py)|
-| 1   | Python Basics                       | Variables, Data Types, and Operators              | Python’s flexibility makes it great for beginners            | [Day-1](Days/Day-1/1.PythonBasics.py)|
+| Day | Topic                               | Summary                                                 | Key Takeaway                                                 | Link                 |
+|-----|-------------------------------------|---------------------------------------------------------|--------------------------------------------------------------|----------------------|
+| 0	  | Introduction to Python	            | Installed Python & VSCode; ran first script	          | Python’s simplicity & readability make it beginner-friendly  | [Day-0](Days/Day-0/) |
+| 1   | Python Basics                       | Variables, Data Types, and Operators                    | Python’s flexibility makes it great for beginners            | [Day-1](Days/Day-1/) |
+| 2   | Control Flow                        | if/else statements, for and while loops, break/continue | Control flow is the backbone of logic building               | [Day-2](Days/Day-2/) |
+| 3   |                                     |                                                         |                                                              |                      |
+|     |                                     |                                                         |                                                              |                      |
+|     |                                     |                                                         |                                                              |                      |
+
 
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
