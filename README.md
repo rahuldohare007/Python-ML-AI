@@ -25,7 +25,7 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 1   | Python Basics                       | Variables, Data Types, and Operators                    | Python’s flexibility makes it great for beginners            | [Day-1](Days/Day-1/) |
 | 2   | Control Flow                        | if/else statements, for and while loops, break/continue | Control flow is the backbone of logic building               | [Day-2](Days/Day-2/) |
 | 3   | Functions, Modules, and File I/O    | Defined reusable functions, imported built-in & custom modules, handled file read/write | Functions help break code into logical blocks; file I/O connects code with real-world data | [Day-3](Days/Day-3/) |
-| 4   |                                     |                                                         |                                                              |                      |
+| 4   | Python Data Structures              | Learned Lists, Tuples, Dictionaries, and Sets           | Each structure has unique strengths — choose the right one for the job | [Day-4](Days/Day-4/) |
 | 5   |                                     |                                                         |                                                              |                      |
 
 
