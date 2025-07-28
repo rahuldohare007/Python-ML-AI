@@ -26,8 +26,7 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 2   | Control Flow                        | if/else statements, for and while loops, break/continue | Control flow is the backbone of logic building               | [Day-2](Days/Day-2/) |
 | 3   | Functions, Modules, and File I/O    | Defined reusable functions, imported built-in & custom modules, handled file read/write | Functions help break code into logical blocks; file I/O connects code with real-world data | [Day-3](Days/Day-3/) |
 | 4   | Python Data Structures              | Learned Lists, Tuples, Dictionaries, and Sets           | Each structure has unique strengths — choose the right one for the job | [Day-4](Days/Day-4/) |
-| 5   |                                     |                                                         |                                                              |                      |
-
+| 5   | CLI Calculator Challenge            | Built a command-line calculator using Python functions  | Practiced user input, conditionals & modular coding          | [Day-5](Days/Day-5/) |
 
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
@@ -58,7 +57,7 @@ Here are some of the best books I’m referring to throughout this journey:
 
 | Project Name | Description                 | Link       |
 |--------------|-----------------------------|------------|
-| Calculator   | Basic arithmetic operations | [Open]()   |
+| Calculator   | Basic arithmetic operations | [Open](Days/Day-5/Calculator.py)   |
 | ...          | Coming soon                 |            |
 
 ---
