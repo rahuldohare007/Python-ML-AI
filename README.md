@@ -27,6 +27,7 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 3   | Functions, Modules, and File I/O    | Defined reusable functions, imported built-in & custom modules, handled file read/write | Functions help break code into logical blocks; file I/O connects code with real-world data | [Day-3](Days/Day-3/) |
 | 4   | Python Data Structures              | Learned Lists, Tuples, Dictionaries, and Sets           | Each structure has unique strengths — choose the right one for the job | [Day-4](Days/Day-4/) |
 | 5   | CLI Calculator Challenge            | Built a command-line calculator using Python functions  | Practiced user input, conditionals & modular coding          | [Day-5](Days/Day-5/) |
+| 6   | NumPy Basics                        | Learned about NumPy arrays, indexing, slicing, and broadcasting | NumPy provides fast, flexible, and powerful array operations | [Day-6](Days/Day-6/)  |
 
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
@@ -37,6 +38,7 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 
 - Python 3.x
 - VS Code
+- NumPy
 
 ---
 
@@ -59,6 +61,20 @@ Here are some of the best books I’m referring to throughout this journey:
 |--------------|-----------------------------|------------|
 | Calculator   | Basic arithmetic operations | [Open](Days/Day-5/Calculator.py)   |
 | ...          | Coming soon                 |            |
+
+---
+
+## 🧠 Handwritten Notes for ML/AI
+Explore my handwritten notes as I learn Machine Learning and AI step by step during #100DaysOfCode.
+
+📚 Notes Repository: [Handwritten Notes for ML/AI](https://github.com/rahuldohare007/Hand-Written-Notes/tree/main/Technologies/Python-ML-AI/Python)
+
+---
+
+## 📝 Why Handwritten Notes?
+
+> *“What we write by hand, we remember more clearly.”*  
+These notes are my way of reinforcing core concepts and staying consistent. They’re sketched during learning sessions or after completing hands-on projects.
 
 ---
 
