@@ -67,7 +67,7 @@ Here are some of the best books I’m referring to throughout this journey:
 ## 🧠 Handwritten Notes for ML/AI
 Explore my handwritten notes as I learn Machine Learning and AI step by step during #100DaysOfCode.
 
-📚 Notes Repository: [Handwritten Notes for ML/AI](https://github.com/rahuldohare007/Hand-Written-Notes/tree/main/Technologies/Python-ML-AI/)
+📚 Notes Repository: [Handwritten Notes for ML/AI](https://drive.google.com/drive/folders/1VphGLzo6hrv3pPvGR9A53L1hxn_4mC76?usp=sharing)
 
 ---
 
@@ -82,6 +82,7 @@ These notes are my way of reinforcing core concepts and staying consistent. They
 
 - 🐦 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psychocyborg)
 - 🌐 Portfolio: [https://rahul-dohare-portfolio.vercel.app/](https://rahul-dohare-portfolio.vercel.app/)
+- 📚 Other Hand Written Notes: [Google Drive](https://drive.google.com/drive/folders/1ATt5iqlyuuoxx-BiTmAXQBDJk5KYae-A?usp=sharing)
 - 💌 Mail: psychocyborg007@gmail.com.com
 
 ---
