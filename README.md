@@ -67,7 +67,7 @@ Here are some of the best books I’m referring to throughout this journey:
 ## 🧠 Handwritten Notes for ML/AI
 Explore my handwritten notes as I learn Machine Learning and AI step by step during #100DaysOfCode.
 
-📚 Notes Repository: [Handwritten Notes for ML/AI](https://github.com/rahuldohare007/Hand-Written-Notes/tree/main/Technologies/Python-ML-AI/Python)
+📚 Notes Repository: [Handwritten Notes for ML/AI](https://github.com/rahuldohare007/Hand-Written-Notes/tree/main/Technologies/Python-ML-AI/)
 
 ---
 
