@@ -28,6 +28,7 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 4   | Python Data Structures              | Learned Lists, Tuples, Dictionaries, and Sets           | Each structure has unique strengths — choose the right one for the job | [Day-4](Days/Day-4/) |
 | 5   | CLI Calculator Challenge            | Built a command-line calculator using Python functions  | Practiced user input, conditionals & modular coding          | [Day-5](Days/Day-5/) |
 | 6   | NumPy Basics                        | Learned about NumPy arrays, indexing, slicing, and broadcasting | NumPy provides fast, flexible, and powerful array operations | [Day-6](Days/Day-6/)  |
+| 7   | NumPy - Math & Statistics           | Learned NumPy’s built-in vectorized operations & statistical functions | NumPy makes math fast and easy using simple functions like `sum()`, `mean()`, `std()` | [Day-7](Days/Day-7/) |
 
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
@@ -94,8 +95,6 @@ If you're also on a #100DaysOfCode journey or just love learning ML/AI, consider
 ---
 
 > “Learning by building in public is the fastest way to grow. Let’s do this together. 💪”
-
-
 
 
 ## RAHUL DOHARE
