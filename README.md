@@ -29,7 +29,7 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 5   | CLI Calculator Challenge            | Built a command-line calculator using Python functions  | Practiced user input, conditionals & modular coding          | [Day-5](Days/Day-5/) |
 | 6   | NumPy Basics                        | Learned about NumPy arrays, indexing, slicing, and broadcasting | NumPy provides fast, flexible, and powerful array operations | [Day-6](Days/Day-6/)  |
 | 7   | NumPy - Math & Statistics           | Learned NumPy’s built-in vectorized operations & statistical functions | NumPy makes math fast and easy using simple functions like `sum()`, `mean()`, `std()` | [Day-7](Days/Day-7/) |
-
+| 8   | Pandas - Series, DataFrames & Reading CSVs | Learned creating Series, DataFrames, filtering, reading CSVs | Pandas is great for working with tabular data and analyzing it easily | [Day-8](Days/Day-8/) |
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
 
@@ -40,6 +40,7 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 - Python 3.x
 - VS Code
 - NumPy
+- Pandas
 
 ---
 
