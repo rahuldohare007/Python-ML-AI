@@ -30,6 +30,8 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 6   | NumPy Basics                        | Learned about NumPy arrays, indexing, slicing, and broadcasting | NumPy provides fast, flexible, and powerful array operations | [Day-6](Days/Day-6/)  |
 | 7   | NumPy - Math & Statistics           | Learned NumPy’s built-in vectorized operations & statistical functions | NumPy makes math fast and easy using simple functions like `sum()`, `mean()`, `std()` | [Day-7](Days/Day-7/) |
 | 8   | Pandas - Series, DataFrames & Reading CSVs | Learned creating Series, DataFrames, filtering, reading CSVs | Pandas is great for working with tabular data and analyzing it easily | [Day-8](Days/Day-8/) |
+| 9   | Pandas - GroupBy, Merge, Pivot      | Learned data aggregation, joining, and pivoting         | Great for analyzing structured data like SQL but faster      | [Day-9](Days/Day-9/) |
+
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
 
@@ -61,7 +63,7 @@ Here are some of the best books I’m referring to throughout this journey:
 
 | Project Name | Description                 | Link       |
 |--------------|-----------------------------|------------|
-| Calculator   | Basic arithmetic operations | [Open](Days/Day-5/Calculator.py)   |
+| Calculator   | Basic arithmetic operations | [Open](Days/Day-5/Calculator.py) |
 | ...          | Coming soon                 |            |
 
 ---
