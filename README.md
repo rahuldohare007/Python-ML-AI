@@ -31,8 +31,8 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 7   | NumPy - Math & Statistics           | Learned NumPy’s built-in vectorized operations & statistical functions | NumPy makes math fast and easy using simple functions like `sum()`, `mean()`, `std()` | [Day-7](Days/Day-7/) |
 | 8   | Pandas - Series, DataFrames & Reading CSVs | Learned creating Series, DataFrames, filtering, reading CSVs | Pandas is great for working with tabular data and analyzing it easily | [Day-8](Days/Day-8/) |
 | 9   | Pandas - GroupBy, Merge, Pivot      | Learned data aggregation, joining, and pivoting         | Great for analyzing structured data like SQL but faster      | [Day-9](Days/Day-9/) |
-| 10  | Matplotlib & Seaborn                | Visualized data with plots, histograms, heatmaps        | Clear charts = better data understanding & storytelling      | [Day-10](Days/Day-10/) |
-
+| 10  | Matplotlib & Seaborn                | Visualized data with plots, histograms, heatmaps        | Clear charts = better data understanding & storytelling      | [Day-10](Days/Day-X/) |
+| 11  | Exploratory Data Analysis (EDA) on Titanic Dataset | Visualized Titanic dataset using Matplotlib & Seaborn   | Line, Bar, Histogram, Boxplot, Heatmap — data stories made clear | [Day-11](Days/Day-XI/) |
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
 
