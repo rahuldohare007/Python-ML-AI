@@ -27,3 +27,4 @@ survival_rate.plot(kind='bar')
 plt.title('Survival Rate by Class & Gender')
 plt.ylabel('Survival Rate')
 plt.show()
+``
