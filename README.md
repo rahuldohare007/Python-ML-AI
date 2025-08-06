@@ -35,6 +35,7 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 11  | Exploratory Data Analysis (EDA) on Titanic Dataset | Visualized Titanic dataset using Matplotlib & Seaborn   | Line, Bar, Histogram, Boxplot, Heatmap — data stories made clear | [Day-11](Days/Day-XI/) |
 | 12  | EDA Continued + Handling Missing Values            | Cleaned and filled missing data in Titanic dataset      | Median, Mode, Drop columns — cleaner data, clearer insights     | [Day-12](Days/Day-XII/) |
 | 13  | SQL with Python – SELECT & JOIN (SQLite)           | Queried mock Titanic-style data using SQLite & Pandas   | SELECT, INNER JOIN, WHERE — combining SQL power in Python       | [Day-13](Days/Day-XIII/) |
+| 14  | Project: Kaggle Dataset EDA (End-to-End)           | Cleaned, explored, visualized a Kaggle dataset          | SQL + Pandas + Seaborn — storytelling with real-world data      | [Day-14](Days/Day-XIV/) |
 
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
@@ -67,10 +68,11 @@ Here are some of the best books I’m referring to throughout this journey:
 
 ## 🧩 Projects & Capstones
 
-| Project Name | Description                 | Link       |
-|--------------|-----------------------------|------------|
-| Calculator   | Basic arithmetic operations | [Open](Days/Day-5/Calculator.py) |
-| ...          | Coming soon                 |            |
+| Project Name    | Description                 | Link       |
+|-----------------|-----------------------------|------------|
+| Calculator      | Basic arithmetic operations | [Open](Days/Day-5/Calculator.py) |
+| Titanic SQL EDA | Exploratory Data Analysis using Titanic dataset from Kaggle with SQL-style insights | [Open](Days/Day-XIV/notebooks/titanic_sql_eda.ipynb) |
+| ...             | Coming soon                 |            |
 
 ---
 
