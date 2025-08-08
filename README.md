@@ -36,7 +36,8 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 12  | EDA Continued + Handling Missing Values            | Cleaned and filled missing data in Titanic dataset      | Median, Mode, Drop columns — cleaner data, clearer insights     | [Day-12](Days/Day-XII/) |
 | 13  | SQL with Python – SELECT & JOIN (SQLite)           | Queried mock Titanic-style data using SQLite & Pandas   | SELECT, INNER JOIN, WHERE — combining SQL power in Python       | [Day-13](Days/Day-XIII/) |
 | 14  | Project: Kaggle Dataset EDA (End-to-End)           | Cleaned, explored, visualized a Kaggle dataset          | SQL + Pandas + Seaborn — storytelling with real-world data      | [Day-14](Days/Day-XIV/) |
-| 15  | Recap: Python for Data Science — Quiz + Notes      | Revised DataFrames, filtering, aggregation concepts     | Practiced quiz problems + noted key concepts for revision       | [Day-15](Days/Day-XV/) |
+| 15  | Recap: Python for Data Science — Quiz + Notes      | Revised DataFrames, filtering, aggregation concepts     | Practiced quiz problems + noted key concepts for revision       | [Day-15](Days/Day-XV/)  |
+| 16  | Intro to Machine Learning + Scikit-learn Pipeline  | Built first ML workflow: preprocess → train → evaluate  | Pipeline with StandardScaler + LogisticRegression on Titanic dataset | [Day-16](Days/Day-XVI/) |
 
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
@@ -51,6 +52,7 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 - Pandas
 - Matplotlib
 - Seaborn
+- Scikit-learn
 
 ---
 
