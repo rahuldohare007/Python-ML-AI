@@ -39,6 +39,7 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 15  | Recap: Python for Data Science — Quiz + Notes      | Revised DataFrames, filtering, aggregation concepts     | Practiced quiz problems + noted key concepts for revision       | [Day-15](Days/Day-XV/)  |
 | 16  | Intro to Machine Learning + Scikit-learn Pipeline  | Built first ML workflow: preprocess → train → evaluate  | Pipeline with StandardScaler + LogisticRegression on Titanic dataset | [Day-16](Days/Day-XVI/) |
 | 17  | Linear Regression Theory & Implementation          | Learned LR concept, theory, and evaluation metrics (MSE, R²) | Implemented Linear Regression to predict house prices | [Day-17](Days/Day-XVII/) |
+| 18  | Linear Regression Project — House Prices           | Data cleaning, feature selection, model training & evaluation | Predicted house prices using Linear Regression with selected features | [Day-18](Days/Day-XVIII/) |
 
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
@@ -76,6 +77,7 @@ Here are some of the best books I’m referring to throughout this journey:
 |-----------------|-----------------------------|------------|
 | Calculator      | Basic arithmetic operations | [Open](Days/Day-5/Calculator.py) |
 | Titanic SQL EDA | Exploratory Data Analysis using Titanic dataset from Kaggle with SQL-style insights | [Open](Days/Day-XIV/notebooks/titanic_sql_eda.ipynb) |
+| House Prices Project | Predicting house prices using Linear Regression with feature selection and evaluation | [Open](Days/Day-XVIII/)           |
 | ...             | Coming soon                 |            |
 
 ---
