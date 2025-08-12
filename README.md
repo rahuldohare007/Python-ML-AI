@@ -41,6 +41,8 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 17  | Linear Regression Theory & Implementation          | Learned LR concept, theory, and evaluation metrics (MSE, R²) | Implemented Linear Regression to predict house prices | [Day-17](Days/Day-017/) |
 | 18  | Linear Regression Project — House Prices           | Data cleaning, feature selection, model training & evaluation | Predicted house prices using Linear Regression with selected features | [Day-18](Days/Day-018/) |
 | 19  | Logistic Regression + Classification Metrics       | Trained model to classify Titanic passengers & evaluated performance | Classified survivors using Logistic Regression, evaluated with Accuracy, Precision, Recall, and F1-score | [Day-19](Days/Day-019/) |
+| 20  | Logistic Regression Mini Project (Titanic again!)  | Improved preprocessing & feature engineering, re-trained Logistic Regression model | Classified Titanic survivors with higher accuracy & better balanced metrics | [Day-20](Days/Day-020/) |
+
 
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
@@ -79,6 +81,7 @@ Here are some of the best books I’m referring to throughout this journey:
 | Calculator      | Basic arithmetic operations | [Open](Days/Day-005/Calculator.py) |
 | Titanic SQL EDA | Exploratory Data Analysis using Titanic dataset from Kaggle with SQL-style insights | [Open](Days/Day-014/notebooks/titanic_sql_eda.ipynb) |
 | House Prices Project | Predicting house prices using Linear Regression with feature selection and evaluation | [Open](Days/Day-018/)           |
+| Logistic Regression Mini Project  | Classifying Titanic passengers with Logistic Regression, evaluated using multiple metrics | [Open](Days/Day-020/)                      |
 | ...             | Coming soon                 |            |
 
 ---
