@@ -21,25 +21,26 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 
 | Day | Topic                               | Summary                                                 | Key Takeaway                                                 | Link                 |
 |-----|-------------------------------------|---------------------------------------------------------|--------------------------------------------------------------|----------------------|
-| 0	  | Introduction to Python	            | Installed Python & VSCode; ran first script	          | Python’s simplicity & readability make it beginner-friendly  | [Day-0](Days/Day-0/) |
-| 1   | Python Basics                       | Variables, Data Types, and Operators                    | Python’s flexibility makes it great for beginners            | [Day-1](Days/Day-1/) |
-| 2   | Control Flow                        | if/else statements, for and while loops, break/continue | Control flow is the backbone of logic building               | [Day-2](Days/Day-2/) |
-| 3   | Functions, Modules, and File I/O    | Defined reusable functions, imported built-in & custom modules, handled file read/write | Functions help break code into logical blocks; file I/O connects code with real-world data | [Day-3](Days/Day-3/) |
-| 4   | Python Data Structures              | Learned Lists, Tuples, Dictionaries, and Sets           | Each structure has unique strengths — choose the right one for the job | [Day-4](Days/Day-4/) |
-| 5   | CLI Calculator Challenge            | Built a command-line calculator using Python functions  | Practiced user input, conditionals & modular coding          | [Day-5](Days/Day-5/) |
-| 6   | NumPy Basics                        | Learned about NumPy arrays, indexing, slicing, and broadcasting | NumPy provides fast, flexible, and powerful array operations | [Day-6](Days/Day-6/)  |
-| 7   | NumPy - Math & Statistics           | Learned NumPy’s built-in vectorized operations & statistical functions | NumPy makes math fast and easy using simple functions like `sum()`, `mean()`, `std()` | [Day-7](Days/Day-7/) |
-| 8   | Pandas - Series, DataFrames & Reading CSVs | Learned creating Series, DataFrames, filtering, reading CSVs | Pandas is great for working with tabular data and analyzing it easily | [Day-8](Days/Day-8/) |
-| 9   | Pandas - GroupBy, Merge, Pivot      | Learned data aggregation, joining, and pivoting         | Great for analyzing structured data like SQL but faster      | [Day-9](Days/Day-9/) |
-| 10  | Matplotlib & Seaborn                | Visualized data with plots, histograms, heatmaps        | Clear charts = better data understanding & storytelling      | [Day-10](Days/Day-X/) |
-| 11  | Exploratory Data Analysis (EDA) on Titanic Dataset | Visualized Titanic dataset using Matplotlib & Seaborn   | Line, Bar, Histogram, Boxplot, Heatmap — data stories made clear | [Day-11](Days/Day-XI/) |
-| 12  | EDA Continued + Handling Missing Values            | Cleaned and filled missing data in Titanic dataset      | Median, Mode, Drop columns — cleaner data, clearer insights     | [Day-12](Days/Day-XII/) |
-| 13  | SQL with Python – SELECT & JOIN (SQLite)           | Queried mock Titanic-style data using SQLite & Pandas   | SELECT, INNER JOIN, WHERE — combining SQL power in Python       | [Day-13](Days/Day-XIII/) |
-| 14  | Project: Kaggle Dataset EDA (End-to-End)           | Cleaned, explored, visualized a Kaggle dataset          | SQL + Pandas + Seaborn — storytelling with real-world data      | [Day-14](Days/Day-XIV/) |
-| 15  | Recap: Python for Data Science — Quiz + Notes      | Revised DataFrames, filtering, aggregation concepts     | Practiced quiz problems + noted key concepts for revision       | [Day-15](Days/Day-XV/)  |
-| 16  | Intro to Machine Learning + Scikit-learn Pipeline  | Built first ML workflow: preprocess → train → evaluate  | Pipeline with StandardScaler + LogisticRegression on Titanic dataset | [Day-16](Days/Day-XVI/) |
-| 17  | Linear Regression Theory & Implementation          | Learned LR concept, theory, and evaluation metrics (MSE, R²) | Implemented Linear Regression to predict house prices | [Day-17](Days/Day-XVII/) |
-| 18  | Linear Regression Project — House Prices           | Data cleaning, feature selection, model training & evaluation | Predicted house prices using Linear Regression with selected features | [Day-18](Days/Day-XVIII/) |
+| 0	  | Introduction to Python	            | Installed Python & VSCode; ran first script	          | Python’s simplicity & readability make it beginner-friendly  | [Day-0](Days/Day-000/) |
+| 1   | Python Basics                       | Variables, Data Types, and Operators                    | Python’s flexibility makes it great for beginners            | [Day-1](Days/Day-001/) |
+| 2   | Control Flow                        | if/else statements, for and while loops, break/continue | Control flow is the backbone of logic building               | [Day-2](Days/Day-002/) |
+| 3   | Functions, Modules, and File I/O    | Defined reusable functions, imported built-in & custom modules, handled file read/write | Functions help break code into logical blocks; file I/O connects code with real-world data | [Day-3](Days/Day-003/) |
+| 4   | Python Data Structures              | Learned Lists, Tuples, Dictionaries, and Sets           | Each structure has unique strengths — choose the right one for the job | [Day-4](Days/Day-004/) |
+| 5   | CLI Calculator Challenge            | Built a command-line calculator using Python functions  | Practiced user input, conditionals & modular coding          | [Day-5](Days/Day-005/) |
+| 6   | NumPy Basics                        | Learned about NumPy arrays, indexing, slicing, and broadcasting | NumPy provides fast, flexible, and powerful array operations | [Day-6](Days/Day-006/)  |
+| 7   | NumPy - Math & Statistics           | Learned NumPy’s built-in vectorized operations & statistical functions | NumPy makes math fast and easy using simple functions like `sum()`, `mean()`, `std()` | [Day-7](Days/Day-007/) |
+| 8   | Pandas - Series, DataFrames & Reading CSVs | Learned creating Series, DataFrames, filtering, reading CSVs | Pandas is great for working with tabular data and analyzing it easily | [Day-8](Days/Day-008/) |
+| 9   | Pandas - GroupBy, Merge, Pivot      | Learned data aggregation, joining, and pivoting         | Great for analyzing structured data like SQL but faster      | [Day-9](Days/Day-009/) |
+| 10  | Matplotlib & Seaborn                | Visualized data with plots, histograms, heatmaps        | Clear charts = better data understanding & storytelling      | [Day-10](Days/Day-010/) |
+| 11  | Exploratory Data Analysis (EDA) on Titanic Dataset | Visualized Titanic dataset using Matplotlib & Seaborn   | Line, Bar, Histogram, Boxplot, Heatmap — data stories made clear | [Day-11](Days/Day-011/) |
+| 12  | EDA Continued + Handling Missing Values            | Cleaned and filled missing data in Titanic dataset      | Median, Mode, Drop columns — cleaner data, clearer insights     | [Day-12](Days/Day-012/) |
+| 13  | SQL with Python – SELECT & JOIN (SQLite)           | Queried mock Titanic-style data using SQLite & Pandas   | SELECT, INNER JOIN, WHERE — combining SQL power in Python       | [Day-13](Days/Day-013/) |
+| 14  | Project: Kaggle Dataset EDA (End-to-End)           | Cleaned, explored, visualized a Kaggle dataset          | SQL + Pandas + Seaborn — storytelling with real-world data      | [Day-14](Days/Day-014/) |
+| 15  | Recap: Python for Data Science — Quiz + Notes      | Revised DataFrames, filtering, aggregation concepts     | Practiced quiz problems + noted key concepts for revision       | [Day-15](Days/Day-015/)  |
+| 16  | Intro to Machine Learning + Scikit-learn Pipeline  | Built first ML workflow: preprocess → train → evaluate  | Pipeline with StandardScaler + LogisticRegression on Titanic dataset | [Day-16](Days/Day-016/) |
+| 17  | Linear Regression Theory & Implementation          | Learned LR concept, theory, and evaluation metrics (MSE, R²) | Implemented Linear Regression to predict house prices | [Day-17](Days/Day-017/) |
+| 18  | Linear Regression Project — House Prices           | Data cleaning, feature selection, model training & evaluation | Predicted house prices using Linear Regression with selected features | [Day-18](Days/Day-018/) |
+| 19  | Logistic Regression + Classification Metrics       | Trained model to classify Titanic passengers & evaluated performance | Classified survivors using Logistic Regression, evaluated with Accuracy, Precision, Recall, and F1-score | [Day-19](Days/Day-019/) |
 
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
@@ -75,9 +76,9 @@ Here are some of the best books I’m referring to throughout this journey:
 
 | Project Name    | Description                 | Link       |
 |-----------------|-----------------------------|------------|
-| Calculator      | Basic arithmetic operations | [Open](Days/Day-5/Calculator.py) |
-| Titanic SQL EDA | Exploratory Data Analysis using Titanic dataset from Kaggle with SQL-style insights | [Open](Days/Day-XIV/notebooks/titanic_sql_eda.ipynb) |
-| House Prices Project | Predicting house prices using Linear Regression with feature selection and evaluation | [Open](Days/Day-XVIII/)           |
+| Calculator      | Basic arithmetic operations | [Open](Days/Day-005/Calculator.py) |
+| Titanic SQL EDA | Exploratory Data Analysis using Titanic dataset from Kaggle with SQL-style insights | [Open](Days/Day-014/notebooks/titanic_sql_eda.ipynb) |
+| House Prices Project | Predicting house prices using Linear Regression with feature selection and evaluation | [Open](Days/Day-018/)           |
 | ...             | Coming soon                 |            |
 
 ---
