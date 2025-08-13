@@ -42,6 +42,7 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 18  | Linear Regression Project — House Prices           | Data cleaning, feature selection, model training & evaluation | Predicted house prices using Linear Regression with selected features | [Day-18](Days/Day-018/) |
 | 19  | Logistic Regression + Classification Metrics       | Trained model to classify Titanic passengers & evaluated performance | Classified survivors using Logistic Regression, evaluated with Accuracy, Precision, Recall, and F1-score | [Day-19](Days/Day-019/) |
 | 20  | Logistic Regression Mini Project (Titanic again!)  | Improved preprocessing & feature engineering, re-trained Logistic Regression model | Classified Titanic survivors with higher accuracy & better balanced metrics | [Day-20](Days/Day-020/) |
+| 21  | Decision Trees – Intuition + Practice              | Built & visualized Decision Tree classifier, explored splitting (Gini/Entropy), overfitting & pruning | Learned how trees form the basis for ensemble methods | [Day-21](Days/Day-021/) |
 
 
 
