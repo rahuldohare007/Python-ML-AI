@@ -43,7 +43,7 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 19  | Logistic Regression + Classification Metrics       | Trained model to classify Titanic passengers & evaluated performance | Classified survivors using Logistic Regression, evaluated with Accuracy, Precision, Recall, and F1-score | [Day-19](Days/Day-019/) |
 | 20  | Logistic Regression Mini Project (Titanic again!)  | Improved preprocessing & feature engineering, re-trained Logistic Regression model | Classified Titanic survivors with higher accuracy & better balanced metrics | [Day-20](Days/Day-020/) |
 | 21  | Decision Trees – Intuition + Practice              | Built & visualized Decision Tree classifier, explored splitting (Gini/Entropy), overfitting & pruning | Learned how trees form the basis for ensemble methods | [Day-21](Days/Day-021/) |
-
+| 22  | Random Forest – Bagging, Feature Importance        | Implemented Random Forest using bagging, explored feature importance, and improved accuracy over single trees | Built a robust classifier with reduced overfitting and better performance | [Day-22](Days/Day-022/) |
 
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
