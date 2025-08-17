@@ -45,8 +45,8 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 21  | Decision Trees – Intuition + Practice              | Built & visualized Decision Tree classifier, explored splitting (Gini/Entropy), overfitting & pruning | Learned how trees form the basis for ensemble methods | [Day-21](Days/Day-021/) |
 | 22  | Random Forest – Bagging, Feature Importance        | Implemented Random Forest using bagging, explored feature importance, and improved accuracy over single trees | Built a robust classifier with reduced overfitting and better performance | [Day-22](Days/Day-022/) |
 | 23  | Model Evaluation (Accuracy, Confusion Matrix)      | Evaluated ML models beyond accuracy using precision, recall, F1-score | Improved understanding of balanced vs imbalanced metrics | [Day-23](Days/Day-023/) |
-| 24  | ROC, Precision-Recall, F1 Score                    | Evaluated models beyond accuracy using ROC-AUC, PR curves & F1 score  | Learned to choose metrics for imbalanced datasets | [Day-24](Days/Day-024/) |
-
+| 24  | ROC, Precision-Recall, F1 Score                    | Evaluated models beyond accuracy using ROC-AUC, PR curves & F1 score  | Learned to choose metrics for imbalanced datasets        | [Day-24](Days/Day-024/) |
+| 25  | KNN + Model Selection (train_test_split)           | Implemented KNN with dataset splitting, tuned neighbors (k)           | Achieved balanced accuracy with proper validation        | [Day-25](Days/Day-025/) |
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
 
