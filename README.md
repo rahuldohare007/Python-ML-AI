@@ -48,6 +48,8 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 24  | ROC, Precision-Recall, F1 Score                    | Evaluated models beyond accuracy using ROC-AUC, PR curves & F1 score  | Learned to choose metrics for imbalanced datasets        | [Day-24](Days/Day-024/) |
 | 25  | KNN + Model Selection (train_test_split)           | Implemented KNN with dataset splitting, tuned neighbors (k)           | Achieved balanced accuracy with proper validation        | [Day-25](Days/Day-025/) |
 | 26  | SVMs (Linear & Non-linear)                         | Implemented SVM with linear & RBF kernels, compared decision boundaries | Observed how SVM handles separable vs. non-separable data | [Day-26](Days/Day-026/) |
+| 27  | Unsupervised ML: KMeans                            | Implemented KMeans clustering from scratch & with sklearn             | Visualized clusters and understood centroid updates | [Day-27](Days/Day-027/) |
+
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
 
