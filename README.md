@@ -51,6 +51,7 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 27  | Unsupervised ML: KMeans                            | Implemented KMeans clustering from scratch & with sklearn             | Visualized clusters and understood centroid updates | [Day-27](Days/Day-027/) |
 | 28  | Clustering Project (Customer Segmentation)         | Applied KMeans to segment customers using real-world data             | Identified distinct customer groups and business insights | [Day-28](Days/Day-028/) |
 | 29  | Dimensionality Reduction (PCA, t-SNE)              | Applied PCA & t-SNE on high-dimensional data to visualize clusters    | Observed PCA's linear vs t-SNE's nonlinear separability | [Day-29](Days/Day-029/) |
+| 30  | Project: Spam vs Ham Classifier                    | Cleaned email text, applied TF-IDF, trained Naive Bayes               | Classified messages as spam or ham with strong accuracy | [Day-30](Days/Day-030/) |
 
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
@@ -66,6 +67,9 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- joblib
+- re
+- string
 
 ---
 
