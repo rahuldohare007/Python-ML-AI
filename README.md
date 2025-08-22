@@ -92,9 +92,10 @@ Here are some of the best books I’m referring to throughout this journey:
 |-----------------|-----------------------------|------------|
 | Calculator      | Basic arithmetic operations | [Open](Days/Day-005/Calculator.py) |
 | Titanic SQL EDA | Exploratory Data Analysis using Titanic dataset from Kaggle with SQL-style insights | [Open](Days/Day-014/notebooks/titanic_sql_eda.ipynb) |
-| House Prices Project | Predicting house prices using Linear Regression with feature selection and evaluation | [Open](Days/Day-018/)           |
-| Logistic Regression Mini Project  | Classifying Titanic passengers with Logistic Regression, evaluated using multiple metrics | [Open](Days/Day-020/)                      |
-| Customer Segmentation (KMeans)    | Segmented customers by demographics & spending using KMeans clustering       | [Open](Days/Day-028/)               |
+| House Prices Project | Predicting house prices using Linear Regression with feature selection and evaluation | [Open](Days/Day-018/)                         |
+| Logistic Regression Mini Project  | Classifying Titanic passengers with Logistic Regression, evaluated using multiple metrics | [Open](Days/Day-020/)        |
+| Customer Segmentation (KMeans)    | Segmented customers by demographics & spending using KMeans clustering       | [Open](Days/Day-028/)                     |
+| Spam vs Ham Classifier (NLP)      | Built a text classifier using TF-IDF + Naive Bayes to classify SMS messages as spam or ham | [Open](Days/Day-030/)       |
 | ...             | Coming soon                 |            |
 
 ---
