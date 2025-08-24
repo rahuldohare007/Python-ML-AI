@@ -53,6 +53,7 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 29  | Dimensionality Reduction (PCA, t-SNE)              | Applied PCA & t-SNE on high-dimensional data to visualize clusters    | Observed PCA's linear vs t-SNE's nonlinear separability | [Day-29](Days/Day-029/) |
 | 30  | Project: Spam vs Ham Classifier                    | Cleaned email text, applied TF-IDF, trained Naive Bayes               | Classified messages as spam or ham with strong accuracy | [Day-30](Days/Day-030/) |
 | 31  | Deep Learning Intro: Perceptron, Backpropagation   | Built single-layer perceptron from scratch using numpy                | Learned how forward & backward propagation adjust weights | [Day-31](Days/Day-031/) |
+| 32  | TensorFlow/Keras Setup + First Neural Net          | Installed TF/Keras, built first NN using Sequential API               | Observed how weights update through training automatically | [Day-32](Days/Day-032/) |
 
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
