@@ -54,6 +54,7 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 30  | Project: Spam vs Ham Classifier                    | Cleaned email text, applied TF-IDF, trained Naive Bayes               | Classified messages as spam or ham with strong accuracy | [Day-30](Days/Day-030/) |
 | 31  | Deep Learning Intro: Perceptron, Backpropagation   | Built single-layer perceptron from scratch using numpy                | Learned how forward & backward propagation adjust weights | [Day-31](Days/Day-031/) |
 | 32  | TensorFlow/Keras Setup + First Neural Net          | Installed TF/Keras, built first NN using Sequential API               | Observed how weights update through training automatically | [Day-32](Days/Day-032/) |
+| 33  | Dense Neural Networks on MNIST                     | Implemented a fully connected neural net with ReLU + softmax using TensorFlow/Keras | Achieved >97% accuracy in digit classification | [Day-33](Days/Day-033/) |
 
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
