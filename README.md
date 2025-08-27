@@ -56,6 +56,7 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 32  | TensorFlow/Keras Setup + First Neural Net          | Installed TF/Keras, built first NN using Sequential API               | Observed how weights update through training automatically | [Day-32](Days/Day-032/) |
 | 33  | Dense Neural Networks on MNIST                     | Implemented a fully connected neural net with ReLU + softmax using TensorFlow/Keras | Achieved >97% accuracy in digit classification | [Day-33](Days/Day-033/) |
 | 34  | Activation Functions & Optimizers                  | Tested ReLU, Sigmoid, Tanh & Softmax; compared SGD, Adam, RMSprop on DNN | Observed how activations & optimizers affect learning speed & accuracy | [Day-34](Days/Day-034/) |
+| 35  | CNNs (Convolutional Neural Nets)                   | Implemented CNN for image classification                              | Observed automatic feature extraction using convolution & pooling layers | [Day-35](Days/Day-035/) |
 
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
