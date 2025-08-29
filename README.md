@@ -57,6 +57,8 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 33  | Dense Neural Networks on MNIST                     | Implemented a fully connected neural net with ReLU + softmax using TensorFlow/Keras | Achieved >97% accuracy in digit classification | [Day-33](Days/Day-033/) |
 | 34  | Activation Functions & Optimizers                  | Tested ReLU, Sigmoid, Tanh & Softmax; compared SGD, Adam, RMSprop on DNN | Observed how activations & optimizers affect learning speed & accuracy | [Day-34](Days/Day-034/) |
 | 35  | CNNs (Convolutional Neural Nets)                   | Implemented CNN for image classification                              | Observed automatic feature extraction using convolution & pooling layers | [Day-35](Days/Day-035/) |
+| 36  | CNNs with CIFAR-10                                 | Built and trained CNN with Conv2D, MaxPooling, Dropout on CIFAR-10    | Observed improved accuracy with deeper layers & regularization | [Day-36](Days/Day-036/) |
+| 37  | Transfer Learning with pre-trained models (ResNet50) | Used ResNet50 pretrained on ImageNet, fine-tuned top layers         | Achieved faster convergence & high accuracy with fewer data | [Day-37](Days/Day-037/) |
 
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
@@ -75,6 +77,9 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 - joblib
 - re
 - string
+- tensorflow
+- tourch
+- tourchvision
 
 ---
 
