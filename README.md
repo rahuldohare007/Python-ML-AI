@@ -59,6 +59,7 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 35  | CNNs (Convolutional Neural Nets)                   | Implemented CNN for image classification                              | Observed automatic feature extraction using convolution & pooling layers | [Day-35](Days/Day-035/) |
 | 36  | CNNs with CIFAR-10                                 | Built and trained CNN with Conv2D, MaxPooling, Dropout on CIFAR-10    | Observed improved accuracy with deeper layers & regularization | [Day-36](Days/Day-036/) |
 | 37  | Transfer Learning with pre-trained models (ResNet50) | Used ResNet50 pretrained on ImageNet, fine-tuned top layers         | Achieved faster convergence & high accuracy with fewer data | [Day-37](Days/Day-037/) |
+| 38  | Image Classifier App                               | Built a local deployable app using an image dataset (e.g., flowers, fashion, pets) | Trained a lightweight classifier and integrated real-time predictions | [Day-38](Days/Day-038/) |
 
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
@@ -80,6 +81,8 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 - tensorflow
 - tourch
 - tourchvision
+- flask
+- pillow 
 
 ---
 
@@ -106,6 +109,7 @@ Here are some of the best books I’m referring to throughout this journey:
 | Logistic Regression Mini Project  | Classifying Titanic passengers with Logistic Regression, evaluated using multiple metrics | [Open](Days/Day-020/)        |
 | Customer Segmentation (KMeans)    | Segmented customers by demographics & spending using KMeans clustering       | [Open](Days/Day-028/)                     |
 | Spam vs Ham Classifier (NLP)      | Built a text classifier using TF-IDF + Naive Bayes to classify SMS messages as spam or ham | [Open](Days/Day-030/)       |
+| Image Classifier App (CNN + Flask)| Trained a CNN on flower dataset and deployed via Flask for real-time image classification | [Open](Days/Da-038/)         |
 | ...             | Coming soon                 |            |
 
 ---
