@@ -61,6 +61,8 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 37  | Transfer Learning with pre-trained models (ResNet50) | Used ResNet50 pretrained on ImageNet, fine-tuned top layers         | Achieved faster convergence & high accuracy with fewer data | [Day-37](Days/Day-037/) |
 | 38  | Image Classifier App                               | Built a local deployable app using an image dataset (e.g., flowers, fashion, pets) | Trained a lightweight classifier and integrated real-time predictions | [Day-38](Days/Day-038/) |
 | 39  | Deploying with Streamlit or Flask                  | Turned ML model into an interactive web app                           | Compared Streamlit’s ease vs Flask’s flexibility | [Day-39](Days/Day-039/) |
+| 40  | ML Concepts Recap                                  | Created a comprehensive mind map of all concepts                      | Visualized interconnections between algorithms and techniques | [Day-40](Days/Day-040/) |
+
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
 
