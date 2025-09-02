@@ -86,7 +86,8 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 - tourchvision
 - flask
 - pillow 
-- streamlit 
+- streamlit
+- nltk
 
 ---
 
