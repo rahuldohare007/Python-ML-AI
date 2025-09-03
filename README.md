@@ -63,6 +63,7 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 39  | Deploying with Streamlit or Flask                  | Turned ML model into an interactive web app                           | Compared Streamlit’s ease vs Flask’s flexibility | [Day-39](Days/Day-039/) |
 | 40  | ML Concepts Recap                                  | Created a comprehensive mind map of all concepts                      | Visualized interconnections between algorithms and techniques | [Day-40](Days/Day-040/) |
 | 41  | Intro to NLP + Text Preprocessing                  | Learned NLP basics, tokenization, stopword removal, stemming & lemmatization | Understood how text cleaning impacts downstream ML models | [Day-41](Days/Day-041/) |
+| 42  | Tokenization, Stopwords, Lemmatization             | Implemented text preprocessing steps in NLP                           | Learned how tokenization & lemmatization improve feature quality | [Day-42](Days/Day-042/) |
 
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
@@ -86,8 +87,9 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 - tourchvision
 - flask
 - pillow 
-- streamlit
+- streamlit 
 - nltk
+- spacy
 
 ---
 
