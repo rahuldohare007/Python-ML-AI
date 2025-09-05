@@ -64,6 +64,8 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 40  | ML Concepts Recap                                  | Created a comprehensive mind map of all concepts                      | Visualized interconnections between algorithms and techniques | [Day-40](Days/Day-040/) |
 | 41  | Intro to NLP + Text Preprocessing                  | Learned NLP basics, tokenization, stopword removal, stemming & lemmatization | Understood how text cleaning impacts downstream ML models | [Day-41](Days/Day-041/) |
 | 42  | Tokenization, Stopwords, Lemmatization             | Implemented text preprocessing steps in NLP                           | Learned how tokenization & lemmatization improve feature quality | [Day-42](Days/Day-042/) |
+| 43  | Text Vectorization (BoW & TF-IDF)                  | Implemented Bag of Words & TF-IDF on sample text corpus               | Learned how TF-IDF captures word importance beyond raw counts    | [Day-43](Days/Day-043/) |
+| 44  | NLP Project: Movie Review Sentiment Analysis       | Built a sentiment classifier using TF-IDF + Logistic Regression with a Streamlit UI | Created an interactive app to test sentiment predictions in real-time | [Day-44](Days/Day-044/) |
 
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
@@ -90,6 +92,7 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 - streamlit 
 - nltk
 - spacy
+- streamlit
 
 ---
 
@@ -116,7 +119,8 @@ Here are some of the best books I’m referring to throughout this journey:
 | Logistic Regression Mini Project  | Classifying Titanic passengers with Logistic Regression, evaluated using multiple metrics | [Open](Days/Day-020/)        |
 | Customer Segmentation (KMeans)    | Segmented customers by demographics & spending using KMeans clustering       | [Open](Days/Day-028/)                     |
 | Spam vs Ham Classifier (NLP)      | Built a text classifier using TF-IDF + Naive Bayes to classify SMS messages as spam or ham | [Open](Days/Day-030/)       |
-| Image Classifier App (CNN + Flask)| Trained a CNN on flower dataset and deployed via Flask for real-time image classification | [Open](Days/Da-038/)         |
+| Image Classifier App (CNN + Flask)| Trained a CNN on flower dataset and deployed via Flask for real-time image classification | [Open](Days/Day-038/)         |
+| NLP Project: Movie Review Sentiment Analysis | NLP project using TF-IDF + Logistic Regression, deployed with Streamlit frontend | [Open](Days/Day-044/)       |
 | ...             | Coming soon                 |            |
 
 ---
