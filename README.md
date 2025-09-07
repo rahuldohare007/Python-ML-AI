@@ -67,6 +67,7 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 43  | Text Vectorization (BoW & TF-IDF)                  | Implemented Bag of Words & TF-IDF on sample text corpus               | Learned how TF-IDF captures word importance beyond raw counts    | [Day-43](Days/Day-043/) |
 | 44  | NLP Project: Movie Review Sentiment Analysis       | Built a sentiment classifier using TF-IDF + Logistic Regression with a Streamlit UI | Created an interactive app to test sentiment predictions in real-time | [Day-44](Days/Day-044/) |
 | 45  | Word Embeddings (Word2Vec, GloVe)                  | Implemented Word2Vec on text corpus, explored semantic similarity & used pre-trained GloVe embeddings | Observed embeddings capture meaning (e.g., king - man + woman ≈ queen) | [Day-45](Days/Day-045/) |
+| 46  | Intro to Transformers & HuggingFace                | Explored HuggingFace pipelines for sentiment analysis, zero-shot classification, and text generation  | Learned how transformers use self-attention for powerful NLP tasks     | [Day-46](Days/Day-046/) |
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
 
