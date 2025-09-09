@@ -68,8 +68,8 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 | 44  | NLP Project: Movie Review Sentiment Analysis       | Built a sentiment classifier using TF-IDF + Logistic Regression with a Streamlit UI | Created an interactive app to test sentiment predictions in real-time | [Day-44](Days/Day-044/) |
 | 45  | Word Embeddings (Word2Vec, GloVe)                  | Implemented Word2Vec on text corpus, explored semantic similarity & used pre-trained GloVe embeddings | Observed embeddings capture meaning (e.g., king - man + woman ≈ queen) | [Day-45](Days/Day-045/) |
 | 46  | Intro to Transformers & HuggingFace                | Explored HuggingFace pipelines for sentiment analysis, zero-shot classification, and text generation  | Learned how transformers use self-attention for powerful NLP tasks     | [Day-46](Days/Day-046/) |
-| 47  | Using BERT for Classification                      | Fine-tuned a pre-trained BERT model for text classification using HuggingFace | Observed how transfer learning boosts NLP performance | [Day-47](Days/Day-047/) |
- |
+| 47  | Using BERT for Classification                      | Fine-tuned a pre-trained BERT model for text classification using HuggingFace                         | Observed how transfer learning boosts NLP performance                  | [Day-47](Days/Day-047/) |
+| 48  | Fine-tuning Transformers on custom text            | Fine-tuned DistilBERT on a labeled dataset (text → sentiment)                                         | Observed transfer learning drastically reduces training time & improves accuracy | [Day-48](Days/Day-048/)|
 
 
 > 📌 *You’ll find the full list of all 100 days in the `/Days/` folder.*
@@ -98,6 +98,8 @@ Follow along here 👉 Twitter: [@mr_psychocyborg](https://twitter.com/mr_psycho
 - spacy
 - streamlit
 - gensim
+- datasets
+- transformers
 
 ---
 
